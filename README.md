@@ -1,1 +1,2 @@
 # Exam-management-system
+This project is an innovative Java-based Exam Management System, designed as a desktop application for institutes and the corporate world. Crafted with NetBeans, AWT and Swing, this system revolutionizes the way exams are conducted. Its efficiency and user-friendly MCQ-based tests make it ideal for educational institutes and corporate training programs alike, ensuring accurate assessments and streamlined experiences.
